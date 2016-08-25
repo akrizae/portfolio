@@ -2,18 +2,28 @@ li span {
 background: gold;
 }
 
-.header {
-  align-items: center;
+#wrap {
+  width: 800px;
+  margin: 0 auto;
 }
 
-.main {
-
+#header {
+padding: 5px 10px;
 }
 
-.sidebar {
-
+#main {
+  float: right;
+  width: 500px;
 }
 
-.footer{
+#sidebar {
+  float: left;
+  width:230px;
+  padding:10px;
+}
 
+#footer{
+  vertical-align: bottom;
+  clear: both;
+  width: 730px;
 }
