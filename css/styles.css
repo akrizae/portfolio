@@ -1,5 +1,14 @@
-li span {
-background: gold;
+li span{
+  text-decoration: underline;
+}
+
+a {
+  color: #008B8B;
+}
+
+.image {
+  padding: 5px;
+  margin: 5px;
 }
 
 #nav {
